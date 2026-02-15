@@ -1,16 +1,25 @@
-## Hi, I'm Bhumika Yeole
+<h1 align="center">Hi, I'm Bhumika Yeole</h1>
+
+<h3 align="center">Full Stack Developer | AI Explorer | Java + DSA | B.E Student</h3>
+
+
 
 ---
 
 ### About Me
 
 
--  B.Tech CSE Student @ University of Mumbai | CGPA: 9.65  
+-  B.E CSE Student @ University of Mumbai | CGPA: 9.65  
 -  Java & DSA Enthusiast
 -  Exploring Machine Learning, Cloud Computing & System Design  
 -  Ex - Intern @ Sapphire Infocom Pvt. Ltd. (Full-Stack) & GNCIPL (AI/ML)  
 -  400+ Problems Solved on LeetCode | 200 Days Badge | Global Rank Top 27%  
 -  Passionate about building scalable tech with real-world impact
+
+---
+### Open Source Contributor 
+
+[![An image of @bhumikayeole's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhumikayeole)](https://holopin.io/@bhumikayeole)
 
 ---
 
