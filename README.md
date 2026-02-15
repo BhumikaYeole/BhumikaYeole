@@ -80,7 +80,7 @@ An automated email monitoring system with live inbox analysis, background classi
 
 ---
 
-### GitHub & LeetCode Stats
+### GitHub Stats
 
 
 
