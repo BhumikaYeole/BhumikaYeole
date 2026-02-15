@@ -6,26 +6,37 @@
 
 
 -  B.Tech CSE Student @ University of Mumbai | CGPA: 9.65  
-
-
 -  Java & DSA Enthusiast
-
-  
 -  Exploring Machine Learning, Cloud Computing & System Design  
-
-
 -  Ex - Intern @ Sapphire Infocom Pvt. Ltd. (Full-Stack) & GNCIPL (AI/ML)  
-
-
 -  400+ Problems Solved on LeetCode | 200 Days Badge | Global Rank Top 27%  
-
-
 -  Passionate about building scalable tech with real-world impact
-
-
 
 ---
 
+###  Tech Stack
+
+#### Languages:
+
+`Java` `Python` `C++` `JavaScript` `HTML/CSS` `SQL` 
+
+#### Web & Frameworks:
+
+`React.js` `Firebase` `Node.js` `Express.js` `MongoDB` `Flask` 
+
+#### Tools & Platforms:
+
+`VS Code` `Git & GitHub` `Postman` `Google Colab` `Intellij`
+
+#### Databases & Backend:
+
+`MySQL` `MongoDB` `JDBC` `PostgreSQL` `Firebase Realtime DB`
+
+#### Concepts:
+
+`DSA` `OOPS` `DBMS` `OS` `CN` 
+
+---
 
 
 ###  Featured Projects
@@ -60,26 +71,21 @@ An automated email monitoring system with live inbox analysis, background classi
 
 ---
 
-
-
-### Contact Me
-
+### GitHub & LeetCode Stats
 
 
 
--  **Email:** yeolebhumika@gmail.com  
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhumikaYeole&show_icons=true&theme=radical)  
 
--  **Portfolio:** [bhumika-portfolio-2-0.vercel.app](bhumika-portfolio-2-0.vercel.app/)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhumikaYeole&layout=compact&theme=radical)  
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=BhumikaYeole&theme=radical)](https://git.io/streak-stats)  
 
--  **LinkedIn:** [linkedin.com/in/bhumikayeole](https://www.linkedin.com/in/bhumikayeole)  
+![GitHub Repository Stats](https://github-readme-stats.vercel.app/api?username=BhumikaYeole&show_icons=true&theme=radical)
 
-
--  **GitHub:** [github.com/BhumikaYeole](https://github.com/BhumikaYeole)  
-
-
--  **LeetCode:** [leetcode.com/u/Bhumika_Yeole/](https://leetcode.com/u/Bhumika_Yeole/)
+</div>
 
 
 
@@ -87,4 +93,17 @@ An automated email monitoring system with live inbox analysis, background classi
 
 
 
-<div align="center"> Let’s connect, build, and innovate!</div>
+### Contact Me
+
+
+-  **Email:** yeolebhumika@gmail.com  
+-  **Portfolio:** [bhumika-portfolio-2-0.vercel.app](bhumika-portfolio-2-0.vercel.app/)  
+-  **LinkedIn:** [linkedin.com/in/bhumikayeole](https://www.linkedin.com/in/bhumikayeole)  
+-  **GitHub:** [github.com/BhumikaYeole](https://github.com/BhumikaYeole)  
+-  **LeetCode:** [leetcode.com/u/Bhumika_Yeole/](https://leetcode.com/u/Bhumika_Yeole/)
+
+---
+
+
+
+<div align="center"> ✨ Let’s connect, build, and innovate!</div>
