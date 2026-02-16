@@ -19,6 +19,8 @@
 ---
 ### Open Source Contributor 
 
+
+
 [![An image of @bhumikayeole's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhumikayeole)](https://holopin.io/@bhumikayeole)
 
 ---
@@ -106,7 +108,7 @@ An automated email monitoring system with live inbox analysis, background classi
 
 
 -  **Email:** yeolebhumika@gmail.com  
--  **Portfolio:** [bhumika-portfolio-2-0.vercel.app](bhumika-portfolio-2-0.vercel.app/)  
+-  **Portfolio:** [bhumika-portfolio-2-0.vercel.app](https://bhumika-portfolio-2-0.vercel.app/)  
 -  **LinkedIn:** [linkedin.com/in/bhumikayeole](https://www.linkedin.com/in/bhumikayeole)  
 -  **GitHub:** [github.com/BhumikaYeole](https://github.com/BhumikaYeole)  
 -  **LeetCode:** [leetcode.com/u/Bhumika_Yeole/](https://leetcode.com/u/Bhumika_Yeole/)
