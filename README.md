@@ -13,7 +13,7 @@
 -  Java & DSA Enthusiast
 -  Exploring Machine Learning, Cloud Computing & System Design  
 -  Ex - Intern @ Sapphire Infocom Pvt. Ltd. (Full-Stack) & GNCIPL (AI/ML)  
--  400+ Problems Solved on LeetCode | 200 Days Badge | Global Rank Top 27%  
+-  500+ Problems Solved on LeetCode | 200 Days Badge | Global Rank Top 18%  
 -  Passionate about building scalable tech with real-world impact
 
 ---
