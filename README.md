@@ -2,119 +2,111 @@
 
 <h3 align="center">Full Stack Developer | AI Explorer | Java + DSA | B.E Student</h3>
 
-
-
----
-
-### About Me
-
-
--  B.E CSE Student @ University of Mumbai | CGPA: 9.65  
--  Java & DSA Enthusiast
--  Exploring Machine Learning, Cloud Computing & System Design  
--  Ex - Intern @ Sapphire Infocom Pvt. Ltd. (Full-Stack) & GNCIPL (AI/ML)  
--  500+ Problems Solved on LeetCode | 200 Days Badge | Global Rank Top 18%  
--  Passionate about building scalable tech with real-world impact
-
----
-### Open Source Contributor 
-
-
-
-[![An image of @bhumikayeole's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhumikayeole)](https://holopin.io/@bhumikayeole)
-
----
-
-###  Tech Stack
-
-#### Languages:
-
-`Java` `Python` `C++` `JavaScript` `HTML/CSS` `SQL` 
-
-#### Web & Frameworks:
-
-`React.js` `Firebase` `Node.js` `Express.js` `MongoDB` `Flask` 
-
-#### Tools & Platforms:
-
-`VS Code` `Git & GitHub` `Postman` `Google Colab` `Intellij`
-
-#### Databases & Backend:
-
-`MySQL` `MongoDB` `JDBC` `PostgreSQL` `Firebase Realtime DB`
-
-#### Concepts:
-
-`DSA` `OOPS` `DBMS` `OS` `CN` 
-
----
-
-
-###  Featured Projects
-
-
-
-#### UpSkillr (Learning Management System)
-
-**MERN** based web platform designed that allows instructors to create short courses and learning modules while enabling learners to explore, enroll, and track their progress in real time and provide learning experience for users to upskill through practical, instructor-led content. 
-
-→ Anti-Cheat Quiz | Verified Certificates | Coin based reward system.
-
-[GitHub ↗](https://github.com/BhumikaYeole/UpSkillr)
-
-
-####  MoneyPal (AI-powered Finance Tracker)
-
-**AI-powered** personal finance tracker that helps users manage expenses, set budgets, scan receipts to autofill transaction forms with AI and visualize incomes and expenses in the form of piecharts and graphs
-
-→ Auto-Scan Receipt | Email Alerts | Rate Limiting
-
-[GitHub ↗](https://github.com/BhumikaYeole/MoneyPal)
-
-
-
-####  SpamShield-Dashboard
-
-An automated email monitoring system with live inbox analysis, background classification, and a real-time dashboard for spam detection. 
-
-[GitHub ↗](https://github.com/BhumikaYeole/SpamShield-Dashboard)
-
-
----
-
-### GitHub Stats
-
-
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhumikaYeole&show_icons=true&theme=radical)  
+<a href="https://bhumika-portfolio-2-0.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhumikaYeole&layout=compact&theme=radical)  
+<a href="mailto:yeolebhumika@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BhumikaYeole&theme=radical)](https://git.io/streak-stats)  
+<a href="https://www.linkedin.com/in/bhumikayeole/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-![GitHub Repository Stats](https://github-readme-stats.vercel.app/api?username=BhumikaYeole&show_icons=true&theme=radical)
+<a href="https://github.com/BhumikaYeole">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
 
 </div>
 
 
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="180"><b> Education</b></td>
+    <td>B.E. CSE @ University of Mumbai • <b>CGPA: 9.65</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b> Focus</b></td>
+    <td>Java • DSA • Backend Development • System Design</td>
+  </tr>
+  <tr>
+    <td align="center"><b> Exploring</b></td>
+    <td>AI/ML • Cloud Computing • Scalable Systems</td>
+  </tr>
+  <tr>
+    <td align="center"><b> Experience</b></td>
+    <td>Ex-Full Stack Intern @ Sapphire Infocom • Ex-AI/ML Intern @ GNCIPL</td>
+  </tr>
+  <tr>
+    <td align="center"><b> DSA</b></td>
+    <td>500+ Problems • <b>Top 18%</b> LeetCode • 365 Days Badge</td>
+  </tr>
+  <tr>
+    <td align="center"><b> Hackathons</b></td>
+    <td><b>2× National Hackathon Finalist</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b> Open Source</b></td>
+    <td><b>GSSoC'26 • HacktoberFest'25</b></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
+<h2 align="center"> Tech Stack</h2>
 
-
-### Contact Me
-
-
--  **Email:** yeolebhumika@gmail.com  
--  **Portfolio:** [bhumika-portfolio-2-0.vercel.app](https://bhumika-portfolio-2-0.vercel.app/)  
--  **LinkedIn:** [linkedin.com/in/bhumikayeole](https://www.linkedin.com/in/bhumikayeole)  
--  **GitHub:** [github.com/BhumikaYeole](https://github.com/BhumikaYeole)  
--  **LeetCode:** [leetcode.com/u/Bhumika_Yeole/](https://leetcode.com/u/Bhumika_Yeole/)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="340">
+        <b>🧠 Languages</b><br><br>
+        <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css" />
+      </td>
+      <td align="center" width="340">
+        <b>⚙️ Frameworks & Libraries</b><br><br>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,flask" />
+      </td>
+    </tr>
+    <tr>
+  </td>
+     <td align="center" width="340">
+        <b>🗄️ Databases & Cloud</b><br><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,redis" />
+      </td>
+      <td align="center" width="340">
+        <b>🔧 Tools & DevOps</b><br><br>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,idea"/>
+      </td>
+      <tr>
+</tr>
+    </tr>
+  </table>
+</div>
 
 ---
 
+<h2 align="center">GitHub Stats & Activity</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔥 GitHub Streak</h3>
+      <img src="https://streak-stats.demolab.com?user=BhumikaYeole&theme=radical" />
+    </td>
+    <td align="center" width="50%">
+      <h3>📈 GitHub Activity</h3>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhumikaYeole&theme=github-compact&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 
-<div align="center"> ✨ Let’s connect, build, and innovate!</div>
